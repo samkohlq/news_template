@@ -1,3 +1,13 @@
 .navbar-light {
     background-color: rgb(230, 230, 230);
 }
+
+#logo {
+    margin: 25px 15px 25px 0px;
+    width: 84%;
+}
+
+#ads {
+    margin: 25px 0px 25px 15px;
+    width: 85%;
+}
